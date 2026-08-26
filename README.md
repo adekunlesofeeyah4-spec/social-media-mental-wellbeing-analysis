@@ -53,7 +53,7 @@ Power BI was then used to communicate the key findings through visualizations an
 ## Dashboard
 The final Power BI dashboard presents the key findings from the analysis, including differences in mental well-being across age and gender groups, platform usage patterns, addiction levels, and characteristics associated with lower well-being.
 "Social Media Addiction & Mental Well-Being Dashboard" (social-media-dashboard.png)
-##Project Files
+## Project Files
 #### Python Analysis
 Contains the Python analysis used to explore the dataset, calculate summary statistics, compare groups, and identify patterns.
 #### Power BI Dashboard
